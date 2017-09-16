@@ -1,0 +1,98 @@
+#left{
+    float:left;
+    width:60%;
+}
+#right{
+    float:right;
+
+}
+.link{
+    float:right;
+    word-spacing: 5em;
+    line-height:70px;
+    font-size:20px;
+}
+.link a{
+    text-decoration: none;
+}
+#header{
+    height:70px;
+    background-color: #b3d4fc;
+
+}
+#first p{
+    text-indent:2em;
+}
+#first{
+    border:2px solid pink;
+    margin:10px auto;
+}
+#second li{
+    list-style:none;
+}
+#second{
+    border:2px solid pink;
+    margin:10px auto;
+}
+#second p{
+    text-indent:2em;
+}
+
+#three{
+    border:2px solid pink;
+    margin:10px auto;
+}
+
+.tb tr,td,th{
+    border:2px solid black;
+}
+.tb{
+    border-collapse: collapse;
+}
+.tb td{
+    border:2px solid black;
+}
+#four{
+    border:2px solid pink;
+    margin:10px auto;
+}
+#five{
+    border:2px solid pink;
+    margin:10px auto;
+}
+.z{
+    width:120px;
+    height:50px;
+    border-left:2px solid grey;
+}
+.q{
+    text-align: center;
+    border: none;
+    border-collapse: collapse;
+}
+.q tr,td{
+    border: 0;
+}
+footer{
+    width:100%;
+    height:20px;
+    background-color: #222222;
+    text-align: center;
+    float:left;
+}
+span{
+    color:white;
+}
+#first img{
+    width:300px;
+    height:200px;
+}
+#second img{
+    width:300px;
+    height:200px;
+}
+#three img{
+    width:300px;
+    height:200px;
+}
+

@@ -1,0 +1,9 @@
+Webstorm常用快捷键
+1.	ctrl+shift+N 通过文件名快速查找工程内的文件
+2.	ctrl+shift+alt+N 通过一个字符快速查找位置
+3.	ctrl+K 查找下一个
+4.	ctrl+shift+K 查找上一个
+5.	ctrl+F4关闭当前代码选项卡
+6.	shift+enter 重新开始一行
+7.	esc 进入代码编辑区域
+8.	ctrl+alt+s 打开配置窗口
